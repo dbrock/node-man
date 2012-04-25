@@ -3,5 +3,8 @@
   "version": "0.0.0",
   "directories": {
     "man": "man"
+  },
+  "scripts": {
+    "prepublish": "build.sh"
   }
 }
