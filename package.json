@@ -6,6 +6,6 @@
     "man": "man"
   },
   "scripts": {
-    "prepublish": "build.sh"
+    "prepublish": "./build.sh"
   }
 }
