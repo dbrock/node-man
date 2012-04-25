@@ -5,3 +5,8 @@ Due to how npm works, ‘node-man-’ is prefixed to all names:
     $ man node-man-http
     $ man node-man-path
     $ man node-man-child_process
+
+The ‘node-man’ executable provides a shortcut:
+
+    $ node-man fs
+    $ node-man child_process

@@ -1,6 +1,7 @@
 {
   "name": "node-man",
   "version": "0.0.0",
+  "bin": "bin/node-man",
   "directories": {
     "man": "man"
   },
